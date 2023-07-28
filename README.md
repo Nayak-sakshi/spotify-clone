@@ -1,2 +1,4 @@
-# spotify-clone
-Spotify clone is a music streaming platform that helps you gain an advantage in the lucrative streaming industry. An app similar to Spotify helps you offer millions of songs of different genres to users.
+# Spotify-clone
+## web development internship
+### task-3 ( Music app )
+as a intern in sync intern's my task 3 was to develop a music web app in javascript. This music player will have all the features of a typical music player. You will be able to add, play, pause, and seek songs that have been added.
